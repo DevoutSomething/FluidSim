@@ -22,7 +22,7 @@ Built With:
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/fluid-simulation.git
+git clone https://github.com/devoutsomething/fluid-simulation.git
 cd fluid-simulation
 Open the simulation:
 Simply double-click index.html or open it in your browser.
